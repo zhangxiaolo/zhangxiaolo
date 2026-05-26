@@ -19,6 +19,11 @@
 - Phase Unwrapping Network based on Deep Learning
 - LiCSAR Earthquake Deformation Inversion
 - Multi-baseline InSAR Signal Processing
+---
+
+### 📌 Note
+I am still in the learning stage and actively improving my research and coding skills.  
+I’d love to communicate with excellent researchers and developers, learn from each other, and make progress together.
 
 ### 📬 Contact
 <div align="center">
