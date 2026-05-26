@@ -9,7 +9,6 @@
 - 🔭 Research on: InSAR, Circular SAR, Phase Unwrapping
 - 🌱 Learning: Deep Learning, PyTorch, SAR Data Processing
 - 📍 Based in Changsha, Hunan
-- 📫 Email: your-email@example.com
 
 ### 🛠️ Tech Stack
 <div align="center">
