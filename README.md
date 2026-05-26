@@ -2,7 +2,7 @@
   <h2>Hi, I'm ZXL 👋</h2>
   <p>Remote Sensing Master Student | InSAR & Deep Learning</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5E97F2&width=435&lines=InSAR+Phase+denoising+and+Unwrapping;Deep+Learning+for+SAR+and+InSAR;Python+%26+PyTorch+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5E97F2&width=435&lines=InSAR+Phase+denoising+and+Unwrapping;Deep+Learning+for+SAR+and+InSAR;" alt="Typing SVG" />
 </div>
 
 ### 🧑‍💻 About Me
